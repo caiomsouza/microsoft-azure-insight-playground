@@ -19,4 +19,18 @@ Azure HDInsight enables you to use rich productive tools for Hadoop and Spark wi
 
 <b>[Cluster types in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#cluster-types-in-hdinsight)</b>
 
+<b>[Open-source components in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#open-source-components-in-hdinsight)</b>
+Azure HDInsight enables you to create clusters with open-source frameworks such as Hadoop, Spark, Hive, LLAP, Kafka, Storm, HBase, and R. These clusters, by default, come with other open-source components that are included on the cluster such as Ambari, Avro, Hive, HCatalog, Mahout, MapReduce, YARN, Phoenix, Pig, Sqoop, Tez, Oozie, ZooKeeper.
+
+<b>[Programming languages in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#programming-languages-in-hdinsight)</b>
+* Java
+* Python
+
+<b>[Development tools for HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#development-tools-for-hdinsight)</b>
+* Azure toolkit for IntelliJ
+* Azure toolkit for Eclipse
+* Azure HDInsight tools for VS Code
+* Azure data lake tools for Visual Studio
+
+
 
