@@ -1,6 +1,7 @@
 # Microsoft Azure HDInsight Playground
 
-Azure HDInsight is a fully managed, full-spectrum, open-source analytics service for enterprises. HDInsight is a cloud service that makes it easy, fast, and cost-effective to process massive amounts of data. HDInsight also supports a broad range of scenarios, like extract, transform, and load (ETL); data warehousing; machine learning; and IoT.
+
+[Azure HDInsight](https://azure.microsoft.com/en-gb/services/hdinsight/) is a fully managed, full-spectrum, open-source analytics service for enterprises. HDInsight is a cloud service that makes it easy, fast, and cost-effective to process massive amounts of data. HDInsight also supports a broad range of scenarios, like extract, transform, and load (ETL); data warehousing; machine learning; and IoT.
 
 Use Azure HDInsight to analyze streaming or historical data.
 
