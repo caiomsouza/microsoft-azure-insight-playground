@@ -48,6 +48,8 @@ Microsoft Azure HDInsight version 3.3 was the last version of HDInsight on Windo
 
 <b>[HDInsight Python Management SDK Preview](https://docs.microsoft.com/en-gb/python/api/overview/azure/hdinsight?view=azure-python)</b>
 
+<b>[HDInsight Java Management SDK (Preview)(https://docs.microsoft.com/en-gb/java/api/overview/azure/hdinsight?view=azure-java-preview)</b>
+
 # Tutorials
 <b>[Tutorial: Extract, transform, and load data using Apache Hive on Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-analyze-flight-delay-data-linux?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)</b>
 
