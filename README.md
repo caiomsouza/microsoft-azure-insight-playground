@@ -46,8 +46,11 @@ Azure HDInsight enables you to create clusters with open-source frameworks such 
 <b>[HDInsight Windows retirement](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-component-versioning?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json#hdinsight-windows-retirement)</b> <BR>
 Microsoft Azure HDInsight version 3.3 was the last version of HDInsight on Windows. The retirement date for HDInsight on Windows is July 31, 2018. 
 
+<b>[HDInsight Python Management SDK Preview](https://docs.microsoft.com/en-gb/python/api/overview/azure/hdinsight?view=azure-python)</b>
+
+# Tutorials
 <b>[Tutorial: Extract, transform, and load data using Apache Hive on Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-analyze-flight-delay-data-linux?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)</b>
 
-<b>[HDInsight Python Management SDK Preview](https://docs.microsoft.com/en-gb/python/api/overview/azure/hdinsight?view=azure-python)</b>
+<b>[Walkthrough: Scoring a trained CNTK model with PySpark on a Microsoft Azure HDInsight cluster](https://github.com/Azure-Samples/hdinsight-pyspark-cntk-integration)</b>
 
 
