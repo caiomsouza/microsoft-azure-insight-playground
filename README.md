@@ -41,5 +41,10 @@ Azure HDInsight enables you to create clusters with open-source frameworks such 
 * Azure HDInsight tools for VS Code
 * Azure data lake tools for Visual Studio
 
+<b>[Hadoop components available with different HDInsight versions](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-component-versioning?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json#hadoop-components-available-with-different-hdinsight-versions)</b>
+
+<b>[HDInsight Windows retirement](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-component-versioning?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json#hdinsight-windows-retirement)</b>
+
+
 
 
