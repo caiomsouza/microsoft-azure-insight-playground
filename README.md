@@ -54,6 +54,7 @@ Microsoft Azure HDInsight version 3.3 was the last version of HDInsight on Windo
 <b>[Machine learning on HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-machine-learning-overview?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)</b> <BR>
 There are several machine learning options in HDInsight: SparkML and MLlib, R, Hive, and the Microsoft Cognitive Toolkit.
 
+<b>[Deep dive - advanced analytics](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-deep-dive-advanced-analytics)</b>
 
 
 # Tutorials
