@@ -53,4 +53,7 @@ Microsoft Azure HDInsight version 3.3 was the last version of HDInsight on Windo
 
 <b>[Walkthrough: Scoring a trained CNTK model with PySpark on a Microsoft Azure HDInsight cluster](https://github.com/Azure-Samples/hdinsight-pyspark-cntk-integration)</b>
 
+<b>[Data Science Quickstart with the Iris Dataset](https://notebooks.azure.com/liwong/libraries/iris1234/html/Data+Science+Quickstart.ipynb)</b>
+  
+  
 
