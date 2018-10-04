@@ -11,6 +11,7 @@ Azure HDInsight enables you to use rich productive tools for Hadoop and Spark wi
 https://docs.microsoft.com/en-us/azure/hdinsight/ <BR>
 
 <b>Scenarios for using HDInsight</b>
+[Scenarios for using HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#scenarios-for-using-hdinsight)
 * Batch processing (ETL)
 * Data warehousing
 * Internet of Things (IoT)
@@ -19,3 +20,5 @@ https://docs.microsoft.com/en-us/azure/hdinsight/ <BR>
 
 Source: <BR>
 https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#scenarios-for-using-hdinsight <BR>
+
+Cluster types in HDInsight
