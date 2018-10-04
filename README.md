@@ -17,7 +17,7 @@ Azure HDInsight enables you to use rich productive tools for Hadoop and Spark wi
 * Data science
 * Hybrid
 
-<b>[Cluster types in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#cluster-types-in-hdinsight)</b>
+<b>[Cluster types in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#cluster-types-in-hdinsight)</b> <BR>
 HDInsight includes specific cluster types and cluster customization capabilities, such as the capability to add components, utilities, and languages. HDInsight offers the following cluster types:
 * Apache Hadoop: A framework that uses HDFS, YARN resource management, and a simple MapReduce programming model to process and analyze batch data in parallel.
 * Apache Spark: An open-source, parallel-processing framework that supports in-memory processing to boost the performance of big-data analysis applications. See What is Apache Spark in HDInsight?.
