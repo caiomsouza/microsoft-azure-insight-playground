@@ -43,7 +43,7 @@ Azure HDInsight enables you to create clusters with open-source frameworks such 
 
 <b>[Hadoop components available with different HDInsight versions](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-component-versioning?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json#hadoop-components-available-with-different-hdinsight-versions)</b>
 
-<b>[HDInsight Windows retirement](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-component-versioning?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json#hdinsight-windows-retirement)</b>
+<b>[HDInsight Windows retirement](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-component-versioning?toc=%2Fen-us%2Fazure%2Fhdinsight%2Fhadoop%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json#hdinsight-windows-retirement)</b> <BR>
 Microsoft Azure HDInsight version 3.3 was the last version of HDInsight on Windows. The retirement date for HDInsight on Windows is July 31, 2018. 
 
 
