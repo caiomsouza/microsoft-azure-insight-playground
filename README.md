@@ -17,4 +17,6 @@ Azure HDInsight enables you to use rich productive tools for Hadoop and Spark wi
 * Data science
 * Hybrid
 
-Cluster types in HDInsight
+<b>[Cluster types in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-introduction#cluster-types-in-hdinsight)</b>
+
+
