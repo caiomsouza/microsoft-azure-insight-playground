@@ -101,7 +101,7 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 
 <b>[Upload data for Hadoop jobs in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-upload-data#commandline)</b>
 
-
+<b>[Hadoop Commands](http://hadoop.apache.org/docs/r2.7.0/hadoop-project-dist/hadoop-common/FileSystemShell.html#copyFromLocal)</b>
 
 
 
