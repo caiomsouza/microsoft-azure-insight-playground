@@ -76,7 +76,13 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 
 <b>[Importing Data into Hive Tables Using Spark](http://www.informit.com/articles/article.aspx?p=2756471&seqNum=5)</b>
 
-<b>[]()</b>
+<b>[Use portal to create an Azure Active Directory application and service principal that can access resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal)</b>
+
+<b>[Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html)</b>
+
+
+
+
 
 
 
