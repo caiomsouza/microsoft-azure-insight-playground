@@ -103,6 +103,7 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 
 <b>[Hadoop Commands](http://hadoop.apache.org/docs/r2.7.0/hadoop-project-dist/hadoop-common/FileSystemShell.html#copyFromLocal)</b>
 
-
-
+<b>[Hadoop commnads by Caio](https://github.com/caiomsouza/pentaho-big-data-guides-and-sample-code/tree/master/guides)</b> 
+  
+  
 
