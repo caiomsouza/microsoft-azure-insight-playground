@@ -72,9 +72,11 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 
 <b>[Leveraging Hive with Spark using Python](https://datascienceplus.com/leveraging-hive-with-spark-using-python/)</b>
 
-<b>[The Big Data Showdown: Apache Spark vs Impala](https://learning.naukri.com/articles/spark-vs-impala/)
-  
-  
+<b>[The Big Data Showdown: Apache Spark vs Impala](https://learning.naukri.com/articles/spark-vs-impala/)</b>
+
+<b>[Importing Data into Hive Tables Using Spark](http://www.informit.com/articles/article.aspx?p=2756471&seqNum=5)</b>
+
+<b>[]()</b>
 
 
 
