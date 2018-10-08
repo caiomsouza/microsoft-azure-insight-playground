@@ -80,30 +80,20 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 
 <b>[Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html)</b>
 
-How to Convert CSV to Parquet Files?
-http://blogs.quovantis.com/how-to-convert-csv-to-parquet-files/
+<b>[How to Convert CSV to Parquet Files?](http://blogs.quovantis.com/how-to-convert-csv-to-parquet-files/)</b>
 
-Introduction to DataFrames - Python
-https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html
+<b>[Introduction to DataFrames - Python](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html)</b>
 
-Spark SQL, DataFrames and Datasets Guide
-https://spark.apache.org/docs/latest/sql-programming-guide.html
+<b>[Spark SQL, DataFrames and Datasets Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)</b>
 
+<b>[Install the Azure Toolkit for Eclipse](https://docs.microsoft.com/en-gb/java/azure/eclipse/azure-toolkit-for-eclipse-installation?view=azure-java-stable)</b>
 
-Install the Azure Toolkit for Eclipse
-https://docs.microsoft.com/en-gb/java/azure/eclipse/azure-toolkit-for-eclipse-installation?view=azure-java-stable
+<b>[Use Azure Toolkit for Eclipse to create Spark applications for an HDInsight cluster](https://docs.microsoft.com/en-gb/azure/hdinsight/spark/apache-spark-eclipse-tool-plugin)</b>
 
-Use Azure Toolkit for Eclipse to create Spark applications for an HDInsight cluster
-https://docs.microsoft.com/en-gb/azure/hdinsight/spark/apache-spark-eclipse-tool-plugin
+<b>[Use Sqoop with Hadoop in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/hdinsight-use-sqoop)</b>
 
-Use Sqoop with Hadoop in HDInsight
-https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/hdinsight-use-sqoop
+<b>[Use Microsoft Cognitive Toolkit deep learning model with Azure HDInsight Spark cluster](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-microsoft-cognitive-toolkit)</b>
 
-Use Microsoft Cognitive Toolkit deep learning model with Azure HDInsight Spark cluster
-https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-microsoft-cognitive-toolkit
-
-Deep dive - advanced analytics
-https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-deep-dive-advanced-analytics
 
 
 
