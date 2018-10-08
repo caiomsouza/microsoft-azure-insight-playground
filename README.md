@@ -66,6 +66,8 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 
 <b>[Azure Code Samples for HDInsight](https://azure.microsoft.com/en-us/resources/samples/?service=hdinsight&sort=0)</b>
   
-<b>[Using Impala with the Azure Data Lake Store (ADLS)] ( https://www.cloudera.com/documentation/enterprise/5-14-x/topics/impala_adls.html ) </b>
+<b>[Using Impala with the Azure Data Lake Store (ADLS)] (https://www.cloudera.com/documentation/enterprise/5-14-x/topics/impala_adls.html)</b>
+
+SQL Engines for Hadoop: Hive vs Impala vs Spark
 
 
