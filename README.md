@@ -95,9 +95,11 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 <b>[Use Microsoft Cognitive Toolkit deep learning model with Azure HDInsight Spark cluster](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-microsoft-cognitive-toolkit)</b>
 
 
+<b>[Use the Beeline client with Apache Hive](https://docs.microsoft.com/en-gb/azure/hdinsight/hadoop/apache-hadoop-use-hive-beeline)</b>
 
+<b>[Create Hive tables and load data from Azure Blob Storage](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/move-hive-tables)</b>
 
-
+<b>[Upload data for Hadoop jobs in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-upload-data#commandline)</b>
 
 
 
