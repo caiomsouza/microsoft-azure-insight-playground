@@ -65,5 +65,42 @@ There are several machine learning options in HDInsight: SparkML and MLlib, R, H
 <b>[Data Science Quickstart with the Iris Dataset](https://notebooks.azure.com/liwong/libraries/iris1234/html/Data+Science+Quickstart.ipynb)</b>
 
 <b>[Azure Code Samples for HDInsight](https://azure.microsoft.com/en-us/resources/samples/?service=hdinsight&sort=0)</b>
-  
+
+<b>[Using Impala with the Azure Data Lake Store](https://www.cloudera.com/documentation/enterprise/5-14-x/topics/impala_adls.html)</b>
+
+<b>[SQL Engines for Hadoop: Hive vs Impala vs Spark](http://bigdata.black/infrastructure/sql-engines-hadoop-hive-spark-impala/)<b>
+
+<b>[Leveraging Hive with Spark using Python](https://datascienceplus.com/leveraging-hive-with-spark-using-python/)</b>
+
+<b>[The Big Data Showdown: Apache Spark vs Impala](https://learning.naukri.com/articles/spark-vs-impala/)</b>
+
+<b>[Importing Data into Hive Tables Using Spark](http://www.informit.com/articles/article.aspx?p=2756471&seqNum=5)</b>
+
+<b>[Use portal to create an Azure Active Directory application and service principal that can access resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal)</b>
+
+<b>[Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html)</b>
+
+<b>[How to Convert CSV to Parquet Files?](http://blogs.quovantis.com/how-to-convert-csv-to-parquet-files/)</b>
+
+<b>[Introduction to DataFrames - Python](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html)</b>
+
+<b>[Spark SQL, DataFrames and Datasets Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)</b>
+
+<b>[Install the Azure Toolkit for Eclipse](https://docs.microsoft.com/en-gb/java/azure/eclipse/azure-toolkit-for-eclipse-installation?view=azure-java-stable)</b>
+
+<b>[Use Azure Toolkit for Eclipse to create Spark applications for an HDInsight cluster](https://docs.microsoft.com/en-gb/azure/hdinsight/spark/apache-spark-eclipse-tool-plugin)</b>
+
+<b>[Use Sqoop with Hadoop in HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/hdinsight-use-sqoop)</b>
+
+<b>[Use Microsoft Cognitive Toolkit deep learning model with Azure HDInsight Spark cluster](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-microsoft-cognitive-toolkit)</b>
+
+
+
+
+
+
+
+
+
+
 
